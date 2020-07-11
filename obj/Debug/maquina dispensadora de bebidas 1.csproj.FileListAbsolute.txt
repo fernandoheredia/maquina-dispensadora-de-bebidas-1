@@ -1,0 +1,11 @@
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\bin\Debug\maquina dispensadora de bebidas 1.exe.config
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\bin\Debug\maquina dispensadora de bebidas 1.exe
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\bin\Debug\maquina dispensadora de bebidas 1.pdb
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina dispensadora de bebidas 1.csprojAssemblyReference.cache
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina_dispensadora_de_bebidas_1.Form1.resources
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina_dispensadora_de_bebidas_1.Form2.resources
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina_dispensadora_de_bebidas_1.Properties.Resources.resources
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina dispensadora de bebidas 1.csproj.GenerateResource.cache
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina dispensadora de bebidas 1.csproj.CoreCompileInputs.cache
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina dispensadora de bebidas 1.exe
+C:\Users\fer_b\source\repos\maquina dispensadora de bebidas 1\obj\Debug\maquina dispensadora de bebidas 1.pdb
